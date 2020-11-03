@@ -3,3 +3,4 @@ step 2 :do commit
 step 3 :do commit
 step 4 :do commit
 step 5 :do commit
+step 6 :do commit
