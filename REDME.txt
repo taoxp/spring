@@ -1,6 +1,6 @@
 step 1 :do commit:cherry pick
 step 2 :do commit:cherry
-step 3 :do commit
+step 3 :do commit:cherr
 step 4 :do commit
 step 5 :do commit
 step 6 :do commit
