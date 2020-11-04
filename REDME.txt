@@ -1,4 +1,4 @@
-step 1 :do commit
+step 1 :do commit:cherry pick
 step 2 :do commit
 step 3 :do commit
 step 4 :do commit
